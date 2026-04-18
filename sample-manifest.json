@@ -1,12 +1,12 @@
 {
-  "export_job_id": "18b225e6-9611-4133-adcc-d343d9c33b91",
+  "export_job_id": "5cc75702-b4f5-4e9e-be96-1b1c717c48da",
   "id_short": 784384,
-  "published_at": "2026-04-15T19:25:43Z",
+  "published_at": "2026-04-18T19:53:02Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-district-of-columbia-us-sample-784384",
   "sample_asset_name": "beamstation_784384_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/784384/beamstation_784384_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_records": 101,
   "sample_sha256": "61c7be799272f144349c87a4c3d3e9698f340f2e62451cabf59a74bd34efa6a8",
   "sample_size_bytes": 445302,
-  "total_records": 1012
+  "total_records": 1010
 }
