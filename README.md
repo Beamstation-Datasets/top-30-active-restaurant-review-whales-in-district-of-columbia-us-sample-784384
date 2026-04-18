@@ -9,9 +9,9 @@
 | Dataset ID | `784384` |
 | Location | District of Columbia |
 | Category | Restaurants |
-| Full dataset size | 1,012 records |
-| Free sample size | 101 records (9.98%) |
-| Last export | 2026-04-07T18:22:56.338432+00:00 |
+| Full dataset size | 1,010 records |
+| Free sample size | 101 records (10.0%) |
+| Last export | 2026-04-14T23:36:11.705167+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-district-of-columbia-us-sample-784384/releases/download/sample-latest/beamstation_784384_restaurants-us-dc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
