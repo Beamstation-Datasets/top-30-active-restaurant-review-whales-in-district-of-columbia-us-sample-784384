@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a state-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Review Whales in District of Columbia, US",
-  "export_job_id": "5cc75702-b4f5-4e9e-be96-1b1c717c48da",
+  "export_job_id": "28d9efd4-57bc-49d5-89a7-2eb309855fae",
   "github_org": "Beamstation-Datasets",
   "id_short": 784384,
   "location_name": "District of Columbia",
@@ -14,9 +14,9 @@
   "repo_name": "top-30-active-restaurant-review-whales-in-district-of-columbia-us-sample-784384",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/784384/beamstation_784384_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 101,
-  "sample_sha256": "61c7be799272f144349c87a4c3d3e9698f340f2e62451cabf59a74bd34efa6a8",
-  "sample_size_bytes": 445302,
-  "total_records": 1010,
-  "updated_at": "2026-04-14T23:36:11.705167+00:00"
+  "sample_records": 94,
+  "sample_sha256": "eb89d11e437f920c1e9f8bc311e299b802392ab4ec4f6b660cac3a460517cd65",
+  "sample_size_bytes": 407332,
+  "total_records": 940,
+  "updated_at": "2026-04-22T03:13:31.290237+00:00"
 }
